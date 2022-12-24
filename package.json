@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "nodemon app.js",
     "server": "node app.js",
-    "client": "cd client && npm run dev"
+    "client": "cd client && npm run dev",
+    "client-install": "cd client && npm install"
   },
   "author": "Sanket Patil",
   "license": "ISC",
